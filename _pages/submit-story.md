@@ -1,12 +1,16 @@
 ---
-ID: 56
-post_title: Submit Story
-author: ng23055
-post_excerpt: ""
+post_excerpt: ''
 layout: page
-permalink: >
+author: ng23055
+permalink: |
   http://horrorzine.gazerbeam.com/submit-story
+post_date: '2018-09-02T01:52:27.000Z'
 published: true
-post_date: 2018-09-02 01:52:27
+post_title: Submit Story
+ID: 56
 ---
-[wpuf_form id="49"]
+
+# submit-story
+
+\[wpuf\_form id="49"\]
+

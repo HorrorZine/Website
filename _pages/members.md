@@ -1,10 +1,15 @@
 ---
-ID: 8
-post_title: Members
-author: ng23055
-post_excerpt: ""
+post_excerpt: ''
 layout: page
-permalink: http://horrorzine.gazerbeam.com/members
+author: ng23055
+permalink: 'http://horrorzine.gazerbeam.com/members'
+post_date: '2018-09-01T22:25:26.000Z'
 published: true
-post_date: 2018-09-01 22:25:26
+post_title: Members
+ID: 8
 ---
+
+# members
+
+
+

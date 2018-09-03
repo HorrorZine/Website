@@ -1,10 +1,15 @@
 ---
-ID: 33
-post_title: Activate
-author: ng23055
-post_excerpt: ""
+post_excerpt: ''
 layout: page
-permalink: http://horrorzine.gazerbeam.com/activate
+author: ng23055
+permalink: 'http://horrorzine.gazerbeam.com/activate'
+post_date: '2018-09-01T23:45:17.000Z'
 published: true
-post_date: 2018-09-01 23:45:17
+post_title: Activate
+ID: 33
 ---
+
+# activate
+
+
+

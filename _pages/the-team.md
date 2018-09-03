@@ -1,11 +1,15 @@
 ---
-ID: 60
-post_title: The Team
-author: ng23055
-post_excerpt: ""
+post_excerpt: ''
 layout: page
-permalink: http://horrorzine.gazerbeam.com/the-team
+author: ng23055
+permalink: 'http://horrorzine.gazerbeam.com/the-team'
+post_date: '2018-09-02T02:00:07.000Z'
 published: true
-post_date: 2018-09-02 02:00:07
+post_title: The Team
+ID: 60
 ---
-[tmfshortcode id="59"]
+
+# the-team
+
+\[tmfshortcode id="59"\]
+

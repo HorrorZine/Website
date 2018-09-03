@@ -1,12 +1,16 @@
 ---
-ID: 82
-post_title: Discussion Forum
-author: ng23055
-post_excerpt: ""
+post_excerpt: ''
 layout: page
-permalink: >
+author: ng23055
+permalink: |
   http://horrorzine.gazerbeam.com/discussion-forum
+post_date: '2018-09-02T02:53:06.000Z'
 published: true
-post_date: 2018-09-02 02:53:06
+post_title: Discussion Forum
+ID: 82
 ---
-[forum]
+
+# discussion-forum
+
+\[forum\]
+
