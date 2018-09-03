@@ -4,6 +4,6 @@
 ## Getting Started
 * [Introduction](GettingStarted/introduction.md)
 ## Project Team
-* [Project Critical Links](Resources/
+* [Project Critical Links](Resources/projectlinks.md)
   
 
