@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-09-03 02:18:50
 ---
-<h1>Chapter One</h1>
+<h2>Chapter One</h2>
 People once talked about the apocalypse as if it would have a tangible beginning. We remained unaware of its arrival for years, but now that we can look back it is easier to see the signs.
 
 After I was born, my parents moved to a single story white house on Clyde Road. My sister Tina was born five years later. I visited her in the hospital with my father, but she never made it home and never saw the nursery my parents had prepared for her.
