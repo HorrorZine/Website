@@ -28,5 +28,6 @@ post_date: 2018-09-03 02:18:50
 <p>Mary suddenly let out a quick scream, and looked as if she was going to collapse onto the cement floor of the garage.</p>
 <p>“It would be safer if we went inside, and found some place for her to lay down,” Frank said.</p>
 <p>I couldn’t disagree.</p>
-<p></p>
+<p>###</p>
+<p><a href="https://docs.google.com/document/d/13cLbTs18aG-fRvJEWJaWjFJnb73wOslnvOshbuvkH74/edit?usp=sharing">Edit in Google Docs</a></p>
 <p>[wpghs target='view' type='link' text='Here is my post on GitHub']</p>
